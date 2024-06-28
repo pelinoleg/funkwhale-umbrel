@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   funkwhale:
-    image: thetarkus/funkwhale
+    image: funkwhale/funkwhale
     container_name: funkwhale
     environment:
       - FUNKWHALE_HOSTNAME=localhost  # Можно заменить на ваше доменное имя или оставить localhost для локального тестирования
