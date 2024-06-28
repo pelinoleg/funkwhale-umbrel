@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: funkwahle
+name: Funkwhale
+tagline: Decentralized Music Server
+icon: https://svgshare.com/i/17i2.svg
+category: media
+version: "1.0.0"
+port: 3030
+description: >-
+  A Docker container for Funkwhale, allowing you to stream and share your music collection.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/funkwhale-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/funkwhale-umbrel
+repo: https://github.com/pelinoleg/funkwhale-umbrel
+support: https://github.com/pelinoleg/funkwhale-umbrel/issues
+
+gallery:
+  - https://fediverse.party/img/screenshots/funkwhale-1.png
+  - https://lemmy.ml/pictrs/image/jm9hMsw4bx.jpg
+
+releaseNotes: >-
+  Initial release of Funkwhale on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
